@@ -10,7 +10,7 @@ Imports System
 Imports System.Web
 Imports System.Web.Mvc.Html
 Imports DevExpress.XtraScheduler
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Public Module SchedulerDataHelper
 	Public Function GetResources() As List(Of CustomResource)

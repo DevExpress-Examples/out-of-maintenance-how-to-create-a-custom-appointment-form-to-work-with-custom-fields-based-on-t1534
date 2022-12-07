@@ -9,7 +9,7 @@ using System;
 using System.Web;
 using System.Web.Mvc.Html;
 using DevExpress.XtraScheduler;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 
 public static class SchedulerDataHelper {
     public static List<CustomResource> GetResources() {
